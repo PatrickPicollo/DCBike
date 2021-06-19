@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "ie_utils"
+author = "Patrick Picollo"
+author-email = "patrick.picollo@student.ie.edu"
+description-file = "README.md"
+
